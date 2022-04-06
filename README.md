@@ -1,9 +1,8 @@
-## Hi there I'm Andrés Felipe Galvis 👋
-#### A JS or PHP backend developer in Bucaramanga, Colombia
+## Hi everyone 👋, I'm Andrés Felipe Galvis 👨‍💻
+### A JavaScript backend developer in Bucaramanga, Colombia 🇨🇴
 
-### <img src="{https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white}" />
-## <img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
-
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" href="www.instagram.com/afelipegalvis" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/andres-felipe-galvis-galviz/"/>
 
 <!--
 **andresgalvis26/andresgalvis26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
