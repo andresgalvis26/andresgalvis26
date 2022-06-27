@@ -1,6 +1,6 @@
 <div align="center" class="mb-5">
   <h2 align="center">Hi everyone 👋  I'm Andrés Galvis 💻👨‍</h2>
-  <h3 align="center">A JavaScript and PHP backend developer from Bucaramanga, Santander.</h3>
+  <h3 align="center">A JavaScript and PHP backend or frontend developer from Bucaramanga, Santander.</h3>
   <a href="https://www.instagram.com/afelipegalvis">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
