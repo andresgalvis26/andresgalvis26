@@ -4,7 +4,7 @@
 
 <p align="center">
   💻 <strong>Desarrollador Full Stack</strong> con experiencia en <strong>JavaScript, PHP (Laravel)</strong> y <strong>Node.js</strong> <br/>
-  📍 <strong>Bucaramanga, Colombia</strong>
+  📍 <strong>Bucaramanga, Santander, Colombia</strong>
 </p>
 
 ---
